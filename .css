@@ -36,32 +36,35 @@ nav ul li a:hover{
     }
     h1{
         color:#6629ba ;
-        width: 90px;
-        margin-right: 40%;
+        width: 9px;
+        display: inline;
+        margin: 5%;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 300%;
         padding: 4%;
     }
     h2{
         color: #6629ba;
-     margin: -5%;
-        width: 150%;
-        padding: 4%;
-        margin: -10% 0 0 0;
+    
+        width: 5px;
+    
+        display:inline;
+        
     }
     h3{
 color: #959afc;
-padding: 2px;
-height:    40px;
-margin: -5% 0 0 0;
-padding: 4%;
+padding: 4px;
+height:30px;
+margin: 10px;
 font-family: Arial, Helvetica, sans-serif;
+display: inline;
 
     }
     #hello{
-        background-size: 30%;
-        width: 15%;
-        height: 20%;
+        background-position: 30%;
+        width: 35%;
+        display: inline;
+    
     }
     td{
         width: 250px;
@@ -87,4 +90,6 @@ padding: 3%;
         transform: 6px;
     }
     
-    
+    p{
+        display: inline-block;
+    }
